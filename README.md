@@ -1,10 +1,10 @@
 # ejs-nodejs-firebase
 
-![nodejs](https://img.shields.io/badge/nodejs-v14.15.4-lightgreen?logo=node.js)&nbsp;![express.js](https://img.shields.io/badge/express.js-v4.16.1-purple?logo=express)&nbsp;![npm](https://img.shields.io/badge/npm-v6.14.10-red?logo=npm)&nbsp;![vscode](https://img.shields.io/badge/vscode-v1.54.1-blue?logo=visual-studio)&nbsp;![firebase](https://img.shields.io/badge/firebase-v8.2.10-yellow?logo=firebase)
-
+![nodejs](https://img.shields.io/badge/nodejs-v14.15.4-lightgreen?logo=node.js)&nbsp;![express.js](https://img.shields.io/badge/express.js-v4.16.1-purple?logo=express)&nbsp;![npm](https://img.shields.io/badge/npm-v6.14.10-red?logo=npm)&nbsp;![boostrap](https://img.shields.io/badge/bootstrap-v5.0.0--beta2-purple?logo=bootstrap)
+&nbsp;![vscode](https://img.shields.io/badge/vscode-v1.54.1-blue?logo=visual-studio)&nbsp;![firebase](https://img.shields.io/badge/firebase-v8.2.10-yellow?logo=firebase)
 ## Getting started node.js
 
-해당 프로젝트는 `express-generator` 를 이용해서 생성하였다. `express-generator` 로 생성하는 방법은 다음 페이지를 [참고](https://expressjs.com/ko/starter/generator.html, "express 홈페이지")하길 바란다.
+해당 프로젝트는 `express-generator` 를 이용해서 생성하였다. `express-generator` 로 생성하는 방법은 다음 페이지를 [참고](https://expressjs.com/ko/starter/generator.html)하길 바란다.
 
 1. `git repository` 를 자신이 원하는 폴더 밑에 clone 시킨다. 명령어는 다음과 같다.
 
