@@ -1,5 +1,5 @@
 {
-  "name": "expressapp",
+  "name": "ejs-nodejs-firebase",
   "version": "0.0.0",
   "private": true,
   "scripts": {
