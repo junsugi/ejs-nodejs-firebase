@@ -71,8 +71,9 @@
 
 4. 사용하는 웹 브라우저에서 https://localhost:3000 경로로 들어가서 "Welcome to Node Express" 가 뜨는지 확인한다.
 
-   추가로 궁금한 내용은 [velog](https://velog.io/@junsugi/conquer-nodeJs-4)에 천천히 올려 둘 예정입니다. 
+5. Firebase 연동 방법은 해당 [링크(내 벨로그)](https://velog.io/@junsugi/conquer-nodeJs-5) 를 참고하세요.
 
 ## Contributor
 
 - ### ![my](https://img.shields.io/badge/%40junsugi-v1996--02--09-green)
+
