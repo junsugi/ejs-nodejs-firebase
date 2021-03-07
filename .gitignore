@@ -2,3 +2,4 @@
 node_modules/
 
 // exception firebase config
+routes/firebase/config.js
