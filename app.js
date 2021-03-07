@@ -26,6 +26,10 @@ app.use('/users', usersRouter);
 const login = require("./routes/login/login")
 app.use("/login", login);
 
+// firebase 추가
+const firebaseConfig = require('./routes/firebase/service');
+app.use("/firebase", firebaseConfig);
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
