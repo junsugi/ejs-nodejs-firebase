@@ -5,7 +5,7 @@
 
 ## Getting started node.js
 
-~~해당 프로젝트는 `express-generator` 를 이용해서 생성하였다. `express-generator` 로 생성하는 방법은 다음 페이지를 [참고](https://expressjs.com/ko/starter/generator.html)하길 바란다. ~~(더이상 `express-generator` 를 사용하지 않습니다.)
+~~해당 프로젝트는 `express-generator` 를 이용해서 생성하였다. `express-generator` 로 생성하는 방법은 다음 페이지를 [참고](https://expressjs.com/ko/starter/generator.html)하길 바란다.~~ (더이상 `express-generator` 를 사용하지 않습니다.)
 
 [Inflearn 강의](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8/dashboard)를 참고해서 진행하고 있는 프로젝트이다. (제일 깔끔한 방법이고, 초보자들도 쉽게 따라할 수 있는 방법이라고 생각해서 바꿨다.)
 
