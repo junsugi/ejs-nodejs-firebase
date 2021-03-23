@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "start": "node ./server/index.js",
-    "dev": "nodemon ./server/index.js"
+    "backend": "nodemon ./server/index.js",
+    "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\""
   },
   "dependencies": {
+    "concurrently": "^6.0.0",
     "express": "~4.16.1",
     "mongoose": "^5.12.1"
   },
